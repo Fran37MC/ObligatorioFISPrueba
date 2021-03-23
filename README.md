@@ -59,6 +59,6 @@ Hola
 ## Detalle del trabajo individual
 
 ## Técnicas aplicadas y aprendizajes
-
+Fran pto
 
 
